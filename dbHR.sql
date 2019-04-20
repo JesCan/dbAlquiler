@@ -1,1 +1,2 @@
-Select * From COUNTRIES;
+create database dbAlquiler
+use alquiler
